@@ -1,0 +1,54 @@
+nav {
+    color: #fff;
+    background-color: #211951;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #836FFF;
+}
+
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 56px;
+    margin: 4px 0;
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 280px;
+}
+
+.click-me-button {
+    background-color: #15F5BA;
+    margin-top: 50px;
+}
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    /* position: relative; */
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+    /* height: 130px; */
+    
+}
+.card{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+    height: 230px;
+}
+.card.medium {
+    height: 230px;
+}
