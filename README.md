@@ -4,7 +4,7 @@
 <p>This repository contains code for Week 4 practical session.</p>
 
 <h2>Objective:</h2>
-<p>Learn how to set up a backend server using Node.js and Express.js, connect it to a frontend HTML page, and serve data through REST APIs.</p>
+<p>Learn how to set up a backend server using Node.js and Express.js, connect it to a frontend HTML page, serve data through REST APIs, and work with MongoDB as the data store.</p>
 
 <h2>Steps To Follow</h2>
 <ol>
@@ -20,6 +20,7 @@
     <li>Built using Node.js and Express.js.</li>
     <li>Serves static files from the public directory.</li>
     <li>Implements REST APIs to serve data to the frontend.</li>
+    <li>Utilizes MongoDB as the data store.</li>
 </ul>
 
 <h2>REST API Endpoints</h2>
@@ -37,6 +38,7 @@
 <ul>
     <li>Node.js</li>
     <li>Express.js</li>
+    <li>MongoDB</li>
     <li>jQuery</li>
     <li>HTML/CSS</li>
 </ul>
